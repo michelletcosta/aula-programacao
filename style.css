@@ -11,9 +11,6 @@ body{
 /* Alterações do botão */
 
 button{
-    position: fixed;      /* O botão fica fixo na tela */
-    left: 50%;            /* Centraliza o botão horizontalmente */
-    transform: translateX(-50%); /* Centraliza o botão corretamente */
     padding: 20px 40px;   /* Aumenta o tamanho do botão */
     font-size: 20px;      /* Aumenta o tamanho da fonte */
     background-color: #981a33; /* Cor de fundo */
